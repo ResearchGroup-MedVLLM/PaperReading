@@ -37,3 +37,16 @@
 | 2024    | CMU              | Fact-aware multimodal retrieval augmentation for accurate medical radiology report generation |
 | 2024.7  | UNC-ChapelHill   | RULE: Reliable multimodal RAG for factuality in medical vision language models              |
 | 2024.10 | UNC-ChapelHill   | MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models |
+
+
+## 胸片报告生成
+| Paper Title                                                                             | Publication Year | Institution/Organization                          | Link                                                                                                      |
+|-----------------------------------------------------------------------------------------|------------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Generating Radiology Reports via Memory-driven Transformer                               | 2020             | arXiv                                             | [arxiv.org](https://arxiv.org/abs/2010.16056)                                                             |
+| Cross-modal Memory Networks for Radiology Report Generation                             | 2022             | arXiv                                             | [arxiv.org](https://arxiv.org/abs/2204.13258)                                                             |
+| Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation   | 2021             | IEEE Conference on Computer Vision and Pattern Recognition (CVPR) | [cvf.com](http://openaccess.thecvf.com/content/CVPR2021/html/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.html) |
+| AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation | 2021 | Springer Lecture Notes in Computer Science        | [springer.com](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_7)                             |
+| Contrastive Attention for Automatic Chest X-ray Report Generation                       | 2021             | arXiv                                             | [arxiv.org](https://arxiv.org/abs/2106.06965)                                                             |
+| METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens | 2023 | IEEE Conference on Computer Vision and Pattern Recognition (CVPR) | [cvf.com](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html) |
+| MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation | 2023 | AAAI Conference on Artificial Intelligence        | [aaai.org](https://ojs.aaai.org/index.php/AAAI/article/view/25100)                                        |
+| Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation           | 2023             | IEEE Conference on Computer Vision and Pattern Recognition (CVPR) | [cvf.com](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.html) |
