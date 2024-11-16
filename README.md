@@ -50,3 +50,14 @@
 | METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens | 2023 | IEEE Conference on Computer Vision and Pattern Recognition (CVPR) | [cvf.com](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.html) |
 | MMTN: Multi-Modal Memory Transformer Network for Image-Report Consistent Medical Report Generation | 2023 | AAAI Conference on Artificial Intelligence        | [aaai.org](https://ojs.aaai.org/index.php/AAAI/article/view/25100)                                        |
 | Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation           | 2023             | IEEE Conference on Computer Vision and Pattern Recognition (CVPR) | [cvf.com](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.html) |
+## 胸片报告生成
+| 会议或期刊       | 论文名                   | 概述                                                                                       |
+|------------|-------------------------|---------------------------------------------------------------------------------------------|
+| ACMMM     | Medical Report Generation via Multimodal Spatio-Temporal Fusion       | 比较了过去和现在的患者图像，用特征归一化处理长尾问题       |
+| AAAI      | PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation  | 在诊断感知提示的指导下提高MRG的诊断准确性                    |
+| lEEE     | Medical Report Generation Is A Multi-label Classification Problem   | 将MRG视为一个多标签分类问题，简化任务，减少对解码器的依赖，侧重准确分类关键字       |
+|       | Large Language Models for Disease Diagnosis: A Scoping Review     | 各种评估方法            |
+| ACL    | Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation  | 预测病灶区域，并进行循环医疗报告生成   |
+|       | Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs  | 利用知识图谱评估医疗报告生成 |
+| Artificial Intelligence In Medicine     | A label information fused medical image report generation framework  | MIX-MLP多标签分类网络、共注意机制、层次LSTM网络有效识别异常和多标签诊断分类 |
+| IEEE     | ChatCAD+: Towards a Universal and ReliableInteractive CAD using LLMs  | 分层上下文学习和可靠的互动模块实现ChatCAD+系统 |
