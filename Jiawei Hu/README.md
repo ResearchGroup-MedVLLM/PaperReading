@@ -6,6 +6,14 @@
 
 [richard-peng-xia/awesome-multimodal-in-medical-imaging: A collection of resources on applications of multi-modal learning in medical imaging.](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging)
 
+## CXR评估指标：
+
+https://github.com/rajpurkarlab/CXR-Report-Metric
+
+## Chexpert-plus Model Zoo
+
+[chexpert-plus/tutorials/RRG/INDEX.md at main · Stanford-AIMI/chexpert-plus](https://github.com/Stanford-AIMI/chexpert-plus/blob/main/tutorials/RRG/INDEX.md)
+
 ## MRG：
 
 |  时间   |      会议       |                机构                | 论文名                                                       |                        Code                        |
